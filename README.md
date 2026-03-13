@@ -1,6 +1,8 @@
 # MouseoverName
 
-**MouseoverName** is a lightweight World of Warcraft addon that displays the name of the unit under your cursor. Player names are colored according to their class, while NPC names are colored based on their faction/reaction. The name follows your cursor and automatically hides when no unit is hovered over.  
+**MouseoverName** is a lightweight World of Warcraft addon that displays the name of the unit under your cursor. Player names are colored according to their class, while NPC names are colored based on their faction/reaction. The name follows your cursor and automatically hides when no unit is hovered over.
+
+This addon was created with inspiration from the WeakAura: [MouseoverName](https://wago.io/MouseoverName).
 
 ---
 
