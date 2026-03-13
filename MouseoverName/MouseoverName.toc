@@ -1,0 +1,7 @@
+## Interface: 120000, 120001
+## Title: MouseoverName
+## Notes: Shows mouseover name in class/faction color
+## Author: Ollebolle
+## Version: 1.0
+
+MouseoverName.lua
